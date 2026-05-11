@@ -1,0 +1,4 @@
+◇ injected env (12) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+SQLite database ready: C:\Users\Celal\OneDrive\Desktop\server\server\data\dreamhost.sqlite
+DreamHost server running in production mode on port 5000
+URL: http://localhost:5000
